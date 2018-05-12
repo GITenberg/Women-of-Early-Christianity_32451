@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '35794'
     url: http://www.gutenberg.org/2009/agents/35794
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32451#Women-of-Early-Christianity
 gutenberg_issued: '2010-05-20'
 gutenberg_type: Text
 identifiers:
