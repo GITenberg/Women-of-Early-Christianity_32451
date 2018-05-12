@@ -1,0 +1,41 @@
+_repo: Women-of-Early-Christianity_32451
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Ayer, Joseph Cullen
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '26855'
+    url: http://www.gutenberg.org/2009/agents/26855
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brittain, Alfred
+    gutenberg_agent_id: '35805'
+    url: http://www.gutenberg.org/2009/agents/35805
+  - agent_name: Carroll, Mitchell
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '35794'
+    url: http://www.gutenberg.org/2009/agents/35794
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Woman: in all ages and in all countries, Volume 3'
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Women in Christianity -- History -- Early church, ca. 30-600'
+- !lcsh 'Christian biography'
+- !lcsh 'Women -- History -- Middle Ages, 500-1500'
+- !lcc 'BR'
+title: Women of Early Christianity
+url: http://www.gutenberg.org/ebooks/32451
